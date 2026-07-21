@@ -2,7 +2,7 @@
 
 Predicts whether an industrial machine will fail in the **next 24 hours** using sensor telemetry, error logs, and maintenance history. Trained on a full year of hourly data from 100 machines (Azure AI predictive-maintenance sample dataset). Random Forest classifier, ROC AUC ≈ 0.99 on a genuinely held-out future time period.
 
-**Live demo:** _(add your deployed link here once you've deployed — see Part 3 below)_
+**Live demo:** : https://machine-failure-predictor-12.streamlit.app
 
 ---
 
